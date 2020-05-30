@@ -69,7 +69,7 @@ if(isset($_POST['submit']))
 							<li>
 								<div class="G_banner_info">
 									<h3>Learn How To Be a truck driver</h3>
-									<p>Get your dream job and with us</p>
+									<p>Get your  job and with us</p>
 								</div>
 							</li>
 						</ul>
